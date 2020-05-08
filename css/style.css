@@ -1,0 +1,28 @@
+body{
+	background:orange;
+	margin-left: 300px;
+	margin-right: 50px;
+
+
+}
+header{
+	margin-top: 10px;
+}
+h1{
+	color:green;
+}
+h2 {
+	font-family: fantasy;
+}
+p{
+	font-size: 18px;
+}
+.img_padrao{
+	margin-bottom: 55px;
+	border-top:150px;
+	width:300px;
+	
+}
+div{
+
+}
