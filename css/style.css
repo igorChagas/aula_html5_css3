@@ -17,11 +17,14 @@ h2 {
 p{
 	font-size: 18px;
 }
-.img_padrao{
+.img_padrao{/**classe usa **/
 	margin-bottom: 55px;
 	border-top:150px;
 	width:300px;
 }
 div{
 
+}
+#contato{/**id usa # **/
+	color: blue;
 }
